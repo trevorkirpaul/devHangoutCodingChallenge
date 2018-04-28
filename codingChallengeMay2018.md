@@ -36,7 +36,7 @@ There is no limitation on which tools you use to make this site. You can use van
 
 The final product will need to be fully deployed and functional. You must also incude a github repo with your submission.
 
-##Tips:
+## Tips:
 
 You can use [GitHub Pages](https://pages.github.com/) to deploy your site.
 
