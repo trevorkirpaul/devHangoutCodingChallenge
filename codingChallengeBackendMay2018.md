@@ -30,7 +30,7 @@ The backend will need to be capable of:
 ```
 4. Proper use of git required. Keep a maintained commit history (Don't commit everything at the end)
 
-All of these rules must be followed or you will be disqualified. If you need a reference for how to use git, watch this [video](https://www.youtube.com/watch?v=SWYqp7iY_Tc&t=445s)
+All of these rules must be followed or you will be disqualified. If you need a reference on how to use git, watch this [video](https://www.youtube.com/watch?v=SWYqp7iY_Tc&t=445s)
 
 ## Notes
 
