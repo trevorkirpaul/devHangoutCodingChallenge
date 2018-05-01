@@ -22,49 +22,73 @@ All prices in USD
 ### Lynx
 
 memory: 1 GB
+
 cpu: 1
+
 storage: 25 GB
+
 transfer: 1 TB
+
 price:  $15/month
 
 ### Puma
 
 memory: 2 GB
+
 cpu: 1
+
 storage: 50 GB
+
 transfer: 2 TB
+
 price:  $25/month
 
 ### Panther
 
 memory: 4 GB
+
 cpu: 2
+
 storage: 100 GB
+
 transfer: 4 TB
+
 price:  $25/month
 
 ### Tiger
 
 memory: 8 GB
+
 cpu: 4
+
 storage: 100 GB
+
 transfer: 10 TB
+
 price:  $50/month
 
 ### Lion
 
 memory: 16 GB
+
 cpu: 6
+
 storage: 250 GB
+
 transfer: 25 TB
+
 price:  $75/month
 
 ### Goat
 
 memory: 64 GB
+
 cpu: 16
+
 storage: 1 TB
+
 transfer: 100 TB
+
 price:  $350/month
 
 ## Data Storage
@@ -74,19 +98,25 @@ price:  $350/month
 ### Blue Store
 
 storage: 250 GB
+
 transfer: 1 TB
+
 price: $25/month
 
 ### Red Store
 
 storage: 500 GB
+
 transfer: 5 TB
+
 price: $75/month
 
 ### Black Store
 
 storage: 5 TB
+
 transfer: 100 TB
+
 price: $500/month
 
 ## Services
@@ -104,21 +134,27 @@ price: $25/month
 ### Perpetuate Yellow
 
 price: $100/month
+
 builds: 50/day
+
 concurrentBuilds: 1
 > 1 build at a time
 
 ### Perpetuate Green
 
 price: $150/month
+
 builds: 100/day
+
 concurrentBuilds: 2
 > 2 builds at a time
 
 ### Perpetuate Silver
 
 price: $300/month
+
 builds: unlimited
+
 concurrentBuilds: 5
 > 5 builds at a time
 
@@ -129,22 +165,31 @@ concurrentBuilds: 5
 ### Telescope Andromeda
 
 price: $25/month
+
 eventsPerMonth: 100,000
+
 history: 90 days
+
 users: 2
 
 ### Telescope Cosmos
 
 price: $50/month
+
 eventsPerMonth: 250,000
+
 history: 180 days
+
 users: 5
 
 ### Telescope Virgo Stellar
 
 price: $150/month
+
 eventsPerMonth: 750,000
+
 history: 365 days
+
 users: 25
 
 
